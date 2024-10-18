@@ -17,7 +17,7 @@ scikit-learn
 
 ## How to run the code
 
-Step 1: Download RAVDESS dataset and copy the datapath. There are 24 actors, every actors folder has 60 wav format files. You need to show the global folder path which contains all actors.
+Step 1: Download RAVDESS dataset and copy the datapath. There are 24 actors, every actors folder has 60 wav format files. You need to show the global folder path which contains all actors. \\
 Step 2: python main.py --datapath [datapath]
 
 ## References:
