@@ -8,7 +8,9 @@ computer-based speech emotion recognition. In a nutshell, Speech Emotion Recogni
 
 How to run the code:
 
-### References:
+## References:
+
+```bibtex
 @article{andayani2022hybrid,
   title={Hybrid LSTM-transformer model for emotion recognition from speech audio files},
   author={Andayani, Felicia and Theng, Lau Bee and Tsun, Mark Teekit and Chua, Caslon},
