@@ -23,6 +23,12 @@ Step 1: Download RAVDESS dataset and copy the datapath. There are 24 actors, eve
 <br>
 Step 2: python main.ipynb (You need to fix the datapath)
 
+## Results
+
+I follow the instruction of the paper and coded by myself. There is some differences with the paper results and our results. So, please be aware that this is not a actual code for the paper, just an attempt for simulating the results. Any help or advice will be appreciated.
+
+![Loss and accuracy comparison between paper's results and our simulation results.](images/metric_comparison.png)
+
 ## References:
 
 ```bibtex
